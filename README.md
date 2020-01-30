@@ -10,12 +10,12 @@ Passwort: 1234
 
 ### Login ins System:
 
-https://github.com/Seakuh/SachbarbeiterVerwaltungSwing/blob/master/login.png
+![Login Bild]https://github.com/Seakuh/SachbarbeiterVerwaltungSwing/blob/master/login.png
 
 ## Sachbearbeiter editieren:
 
-https://github.com/Seakuh/SachbarbeiterVerwaltungSwing/blob/master/sachbearbeiter_editieren.png
+![Sachbearbeiter editieren Bild]https://github.com/Seakuh/SachbarbeiterVerwaltungSwing/blob/master/sachbearbeiter_editieren.png
 
 ## Fortbildung zuweisen
 
-https://github.com/Seakuh/SachbarbeiterVerwaltungSwing/blob/master/forbildung_zuweisen_bild.png
+![Fortbildung zuweisen Bild]https://github.com/Seakuh/SachbarbeiterVerwaltungSwing/blob/master/forbildung_zuweisen_bild.png
